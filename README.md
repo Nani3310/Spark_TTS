@@ -1,4 +1,5 @@
-# ⚡ Spark-TTS: Real-Time AI Voice Engine  
+# ⚡ Spark-TTS: Real-Time Voice Engine  
+
 
 Spark-TTS is a fast, modular Text-to-Speech engine built to generate natural, consistent, and secure speech from text. Designed with real-time streaming, speaker consistency, and audio watermarking, it bridges the gap between research-level TTS and practical deployment.
 
